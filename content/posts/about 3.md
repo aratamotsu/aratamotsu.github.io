@@ -6,7 +6,7 @@ showTableOfContents: false
 ---
 
 ## このブログについて
-一時期ははてなブログで運用していたのだけど、あまり投稿もせず、Pro料金だけを支払い続けているのが無駄に思えたので、[Hugo](https://gohugo.io/)+[Blowfish](https://blowfish.page/docs/)というテーマで運用をしています。
+一時期ははてなブログで運用していたのだけど、あまり投稿もせず、Pro料金だけを支払い続けているのが無駄に思えたので、[Hugo](https://gohugo.io/)+[Blowfish](https://blowfish.page/docs/)というテーマで運用をしています
 
 基本的には、読んだ本や勉強したこと、考えたことなどについて、自分用のメモ的なものとして記録していく。
 

@@ -1,50 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Aratamotsu'blog on Aratamotsu's blog</title><link>https://aratamotsu.github.io/</link><description>Recent content in Welcome to Aratamotsu'blog on Aratamotsu's blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2025 Aratamotsu</copyright><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aratamotsu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://aratamotsu.github.io/posts/about-2/</link><pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate><guid>https://aratamotsu.github.io/posts/about-2/</guid><description>&lt;h2 class="relative group">このブログについて
-&lt;div id="このブログについて" class="anchor">&lt;/div>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Aratamotsu'blog on Aratamotsu's blog</title><link>https://aratamotsu.github.io/</link><description>Recent content in Welcome to Aratamotsu'blog on Aratamotsu's blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2025 Aratamotsu</copyright><lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aratamotsu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>特定のシリーズの新刊を全部読む（進捗編）</title><link>https://aratamotsu.github.io/posts/2025/06/reading-every-new-release-of-some-series-progress/</link><pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate><guid>https://aratamotsu.github.io/posts/2025/06/reading-every-new-release-of-some-series-progress/</guid><description>&lt;p>試みの概要については、こちらの記事を参照。
+&lt;section class="space-y-10 w-full">
+&lt;div class="group-hover-card group flex flex-wrap md:flex-nowrap article relative ">
+&lt;a
+href="https://aratamotsu.github.io/posts/2025/05/reading-every-new-release-of-some-series-kickoff/"
+class="absolute inset-0"
+aria-label="">&lt;/a>
+&lt;div class=" mt-3 md:mt-0">
+&lt;div class="items-center text-left text-xl font-semibold">
+&lt;div
+class="group-hover-card-title decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 group-hover:underline group-hover:underline-offset-2"
+href="https://aratamotsu.github.io/posts/2025/05/reading-every-new-release-of-some-series-kickoff/">
+特定のシリーズの新刊を全部読む（決起編）
+&lt;/div>
+&lt;/div>
+&lt;div class="group-hover-cancel text-sm text-neutral-500 dark:text-neutral-400">
+&lt;div class="flex flex-row flex-wrap items-center">
+&lt;time datetime="2025-05-17T00:00:00&amp;#43;00:00">2025-05-17&lt;/time>
+&lt;/div>
+&lt;div class="flex flex-row flex-wrap items-center">
+&lt;a class="relative mt-[0.5rem] mr-2" href="https://aratamotsu.github.io/categories/%E6%9C%AC/"
+>&lt;span class="flex cursor-pointer">
 &lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e3%81%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" aria-label="アンカー">#&lt;/a>
+class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+本
 &lt;/span>
-&lt;/h2>
-&lt;p>一時期ははてなブログで運用していたのだけど、あまり投稿もせず、Pro料金だけを支払い続けているのが無駄に思えたので、&lt;a
-href="https://gohugo.io/"
-target="_blank"
->Hugo&lt;/a>+&lt;a
-href="https://blowfish.page/docs/"
-target="_blank"
->Blowfish&lt;/a>というテーマで運用をしています。&lt;/p></description></item><item><title>About</title><link>https://aratamotsu.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aratamotsu.github.io/about/</guid><description>&lt;h2 class="relative group">このブログについて
-&lt;div id="このブログについて" class="anchor">&lt;/div>
+&lt;/span>
+&lt;/a
+>
+&lt;a class="relative mt-[0.5rem] mr-2" href="https://aratamotsu.github.io/tags/%E9%80%86%E5%BC%B5%E3%82%8A/"
+>&lt;span class="flex cursor-pointer">
 &lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e3%81%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" aria-label="アンカー">#&lt;/a>
+class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+逆張り
 &lt;/span>
+&lt;/span>
+&lt;/a
+>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/section>
+&lt;/p></description></item><item><title>特定のシリーズの新刊を全部読む（決起編）</title><link>https://aratamotsu.github.io/posts/2025/05/reading-every-new-release-of-some-series-kickoff/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://aratamotsu.github.io/posts/2025/05/reading-every-new-release-of-some-series-kickoff/</guid><description>&lt;h2 class="relative group">まずは結論から
+&lt;div id="まずは結論から" class="anchor">&lt;/div>
 &lt;/h2>
-&lt;p>一時期ははてなブログで運用していたのだけど、あまり投稿もせず、Pro料金だけを支払い続けているのが無駄に思えたので、&lt;a
-href="https://gohugo.io/"
+&lt;p>2025年6月以降に発売される次のシリーズの新刊をすべて読むことにする。想定している期間は2025年6月から2026年5月の1年間。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a
+href="https://www.chikumashobo.co.jp/chikuma_shinsho/?order_by=publish_date&amp;amp;sort_by=desc&amp;amp;num=100"
 target="_blank"
->Hugo&lt;/a>+&lt;a
-href="https://blowfish.page/docs/"
+>ちくま新書&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://www.yuhikaku.co.jp/books/series_search/130"
 target="_blank"
->Blowfish&lt;/a>というテーマで運用をしています。&lt;/p></description></item><item><title>About</title><link>https://aratamotsu.github.io/posts/about-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aratamotsu.github.io/posts/about-3/</guid><description>&lt;h2 class="relative group">このブログについて
+>有斐閣ストゥディア&lt;/a>&lt;/li>
+&lt;li>&lt;a
+href="https://www.iwanami.co.jp/science/KL/"
+target="_blank"
+>岩波科学ライブラリ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>なお、2024年に発売されたちくま新書は68冊、有斐閣ストゥディアは9冊、岩波科学ライブラリは5冊なので、合計82冊。&lt;/p></description></item><item><title>About</title><link>https://aratamotsu.github.io/about/</link><pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate><guid>https://aratamotsu.github.io/about/</guid><description>&lt;h2 class="relative group">このブログについて
 &lt;div id="このブログについて" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e3%81%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" aria-label="アンカー">#&lt;/a>
-&lt;/span>
 &lt;/h2>
-&lt;p>一時期ははてなブログで運用していたのだけど、あまり投稿もせず、Pro料金だけを支払い続けているのが無駄に思えたので、&lt;a
-href="https://gohugo.io/"
-target="_blank"
->Hugo&lt;/a>+&lt;a
-href="https://blowfish.page/docs/"
-target="_blank"
->Blowfish&lt;/a>というテーマで運用をしています&lt;/p></description></item><item><title>About</title><link>https://aratamotsu.github.io/posts/about-4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aratamotsu.github.io/posts/about-4/</guid><description>&lt;h2 class="relative group">このブログについて
-&lt;div id="このブログについて" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e3%81%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" aria-label="アンカー">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>一時期ははてなブログで運用していたのだけど、あまり投稿もせず、Pro料金だけを支払い続けているのが無駄に思えたので、&lt;a
+&lt;p>一時期ははてなブログで運用していたのだけど、Pro料金だけを支払い続けているのが無駄に思えたので、支払うのやめる。
+やめたら広告が入ってしまうので、もっとスッキリしたブログにしたいと考えgithub pagesに移行する。
+&lt;a
 href="https://gohugo.io/"
 target="_blank"
 >Hugo&lt;/a>+&lt;a

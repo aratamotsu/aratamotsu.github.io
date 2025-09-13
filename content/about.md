@@ -26,3 +26,14 @@ showDate: false
 
 
 
+```python
+import pandas as pd
+x = 1
+y = 2
+x + y
+def f(x):
+    return x + 1
+# コレハコメント
+z = 'xyz'
+
+```

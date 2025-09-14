@@ -1,0 +1,41 @@
+/* Blowfish scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+
+/* Gray — lighter boosted (strong) */
+--color-neutral-50:  244, 248, 244;
+--color-neutral-100: 244, 248, 244;
+--color-neutral-200: 244, 248, 244;
+--color-neutral-300: 244, 248, 244;
+--color-neutral-400: 244, 248, 244;
+--color-neutral-500: 110, 128, 144;
+--color-neutral-600:  51,  64,  76;  /* 据え置き */
+--color-neutral-700:  31,  44,  56;  /* 据え置き */
+--color-neutral-800:  10,  20,  30;  /* アンカー（据え置き） */
+--color-neutral-900:   0,   2,  13;  /* 任意で0,0,0でもOK */
+
+/* Blue (+15 boost, clipped at 255) */
+--color-primary-50:  212, 240, 255;
+--color-primary-100: 192, 228, 255;
+--color-primary-200: 164, 213, 255;
+--color-primary-300: 120, 191, 255;
+--color-primary-400:  69, 159, 255;  /* 旧: 54,144,255 */
+--color-primary-500:  32, 124, 255;  /* Bは255に到達 */
+--color-primary-600:  15,  93, 255;  /* Bは255に到達 */
+--color-primary-700:  15,  72, 236;
+--color-primary-800:  15,  58, 195;
+--color-primary-900:  15,  52, 158;
+
+/* Cyan (+15 overall, clipped at 255) */
+--color-secondary-50:  251, 255, 255;
+--color-secondary-100: 222, 255, 255;
+--color-secondary-200: 180, 255, 255;
+--color-secondary-300: 118, 247, 255;
+--color-secondary-400:  49, 226, 253;
+--color-secondary-500:  21, 197, 227;
+--color-secondary-600:  23, 160, 193;
+--color-secondary-700:  29, 131, 159;
+--color-secondary-800:  36, 109, 132;
+--color-secondary-900:  37,  93, 114;
+
+}

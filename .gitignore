@@ -17,3 +17,7 @@ hugo.linux
 
 # garbage
 .DS_Store
+/blog.code-workspace
+
+# memo
+teminal_command.md
